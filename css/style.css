@@ -24,14 +24,14 @@ h3{
 .bottom-cloud{
   position:absolute;
   height:18%;
-  left:220px;
-  bottom:300px;
+  left:100px;
+  bottom:350px;
 }
 .top-cloud{
   position:absolute;
   height:18%;
-  right:200px;
-  top:40px;
+  right:150px;
+  top:30px;
 }
 .top-container{
   background-color:#b4f2e1;
