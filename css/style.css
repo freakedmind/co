@@ -23,13 +23,13 @@ h3{
 }
 .bottom-cloud{
   position:absolute;
-  height:150px;
+  height:18%;
   left:220px;
   bottom:300px;
 }
 .top-cloud{
   position:absolute;
-  height:150px;
+  height:18%;
   right:200px;
   top:40px;
 }
