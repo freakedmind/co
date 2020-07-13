@@ -36,7 +36,7 @@ h3{
 .top-container{
   background-color:#b4f2e1;
   position:relative;
-  padding-top:70px;
+  padding-top:50px;
   margin-top:0;
 }
 .boy{
@@ -160,17 +160,12 @@ a:hover {
 }
 .anim{
   position:relative;
-  animation: mymove 4s 500;
+  animation: mymove 2s 500;
   animation-direction: alternate;
 }
 @keyframes mymove {
-  0%   {left:-40%; top: 0px;}
-  50%  {left:0%; top: 0px;}
-  0%   {right:-40%; top: 0px;}
-}
-.start{
-  background-color:#b4f2e1;
-  padding:5px 0 5px;
+  0%   {color:#fa7d09; left:0%; top: 0px;}
+  100%  {color:#b4f2e1; left:0%;top:0px;}
 }
 .pe{
 font-family: 'Grenze Gotisch', cursive;
