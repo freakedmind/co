@@ -160,7 +160,7 @@ a:hover {
 }
 .anim{
   position:relative;
-  animation: mymove 2s 500;
+  animation: mymove 1s 1000;
   animation-direction: alternate;
 }
 @keyframes mymove {
